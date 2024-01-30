@@ -7,7 +7,7 @@ I'm Carlotta Orengia, fullstack developer 👩‍💻 I always improve myself!
  #**MY SKILL SET** 
 
 |##**FRONTEND**    |
-|..............|
+
 <div class="grid-container" style="display: flex; justify-content: center; flex-wrap: wrap;">
  <div class="grid-item">  <img src="(https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="React Logo" width="50" height="50")/> </div>
  <div class="grid-item"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"alt="Logo 1"width="50" height="50" /></div>
@@ -21,7 +21,7 @@ I'm Carlotta Orengia, fullstack developer 👩‍💻 I always improve myself!
 
 
 |##**BACKEND**   |
-|..............|
+
  <div class="grid-containers" style="display: flex; justify-content: center; flex-wrap: wrap;">
  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"alt="Logo 8" width="50" height="50" /></div>
  <div class="grid-item"><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*v2vdfKqD4MtmTSgNP0o5cg.png"alt="Logo 9"width="50" height="50" /></div>
@@ -31,7 +31,7 @@ I'm Carlotta Orengia, fullstack developer 👩‍💻 I always improve myself!
 
 
 |##**DATABASE**  |
-|..............|
+
 <div class="grid-containerz" style="display: flex; justify-content: center; flex-wrap: wrap;">
  <div class="grid-item"<img src="https://assets-global.website-files.com/65141f14d70bcfacd794fa3c/651d90b0c6ed49fdcad29c85_MySQL-Logo.png"alt="Logo 8" width="50" height="50" /></div>
  <div class="grid-item"<img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"alt="Logo 9" width="50" height="50"/></div>
